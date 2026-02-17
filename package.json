@@ -1,0 +1,24 @@
+{
+  "name": "employee-payroll-system_bridgelabz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MukulJurel/Employee-Payroll-System_BridgeLabz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MukulJurel/Employee-Payroll-System_BridgeLabz/issues"
+  },
+  "homepage": "https://github.com/MukulJurel/Employee-Payroll-System_BridgeLabz#readme",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  }
+}
